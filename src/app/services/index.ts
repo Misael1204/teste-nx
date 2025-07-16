@@ -1,0 +1,1 @@
+export { useItemService } from './produto.service'
